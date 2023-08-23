@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ravi Kumar</h1>
-<h3 align="center">Learning Full Stack Web Development with MERN stack. @AltCampus</h3>
+<h3 align="center">Full Stack Web Developer (MERN).</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikr9102&label=Profile%20views&color=0e75b6&style=flat" alt="ravikr9102" /> </p>
 
