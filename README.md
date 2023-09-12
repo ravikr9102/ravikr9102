@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ravi__91" target="blank"><img src="https://img.shields.io/twitter/follow/@ravi__91?logo=twitter&style=for-the-badge" alt="@ravi__91" /></a> </p>
 
-- I’m a **Full Stack Web Developer(MERN). hands-on in Front-end and Back-end
+- I’m a Full Stack Web Developer(MERN). **hands-on in Front-end and Back-end
 technologies.**
 
 - 📝 I regularly write articles on [https://ravi13.hashnode.dev/](https://ravi13.hashnode.dev/)
