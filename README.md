@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ravi__91" target="blank"><img src="https://img.shields.io/twitter/follow/@ravi__91?logo=twitter&style=for-the-badge" alt="@ravi__91" /></a> </p>
 
-- 🌱 I’m I am a full-stack Web Developer (MERN). **Full Stack Web Developer (MERN). hands-on in Front-end and Back-end
+- 🌱 I’m a **Full Stack Web Developer(MERN). hands-on in Front-end and Back-end
 technologies.**
 
 - 📝 I regularly write articles on [https://ravi13.hashnode.dev/](https://ravi13.hashnode.dev/)
@@ -23,6 +23,7 @@ technologies.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravikr9102&show_icons=true&locale=en&layout=compact" alt="ravikr9102" /></p>
 
