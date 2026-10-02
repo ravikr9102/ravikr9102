@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Ravi%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend%20Developer&descSize=22&descAlignY=58" alt="Header banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Ravi%20Kumar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Frontend-Focused%20Full-Stack%20Developer&descSize=22&descAlignY=58" alt="Header banner" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+%7C+Angular+%7C+Next.js;TypeScript+Enthusiast;Building+scalable+web+applications" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+%7C+Angular+%7C+Next.js;Node.js+%7C+MongoDB+%7C+AWS;Building+and+shipping+end-to-end" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -20,9 +20,11 @@
 
 ## 🚀 About Me
 
-I'm a **Frontend Developer with 2+ years of experience** building production web applications with **React, Angular, Next.js and TypeScript**. I also have working exposure to Node.js, REST APIs, WebSockets and AWS.
+I'm a **Frontend Developer with 2+ years of experience** building production web applications with **React, Angular, Next.js and TypeScript**.
 
-I use AI tools to speed up debugging and code review, but I own the architecture and the final decisions.
+Beyond the frontend, I build and ship complete products: Next.js frontends, Node.js and MongoDB backends, deployed on AWS and Hostinger with CI/CD pipelines triggered from GitHub.
+
+I work with **Claude Code and Cursor** to speed up feature development, debugging, refactoring and code review, while I own the architecture and make the final engineering decisions.
 
 <table>
 <tr>
@@ -40,14 +42,12 @@ Redux Toolkit · RxJS · REST APIs · WebSockets
 **⚙️ Backend**  
 Node.js · Express.js · MongoDB · MySQL · JWT
 
-**☁️ Cloud**  
-AWS S3 · CloudFront
+**☁️ Cloud & Delivery**  
+AWS (EC2, S3, CloudFront) · Hostinger · CI/CD · Razorpay integration
 
 </td>
 </tr>
 </table>
-
-**🎯 Currently focusing on:** Frontend architecture · Web performance & Core Web Vitals · System design · DSA
 
 ---
 
@@ -75,12 +75,15 @@ AWS S3 · CloudFront
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -88,26 +91,57 @@ AWS S3 · CloudFront
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+</p>
+
 ---
 
 ## 📌 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| **[Project Name](https://github.com/ravikr9102/repo-name)** | One line on what it does and the problem it solves. [Live demo](https://your-demo-link) | React, TypeScript, Node.js |
-| **[Project Name](https://github.com/ravikr9102/repo-name)** | One line on what it does and the problem it solves. [Live demo](https://your-demo-link) | Angular, RxJS, WebSockets |
-| **[Project Name](https://github.com/ravikr9102/repo-name)** | One line on what it does and the problem it solves. [Live demo](https://your-demo-link) | Next.js, AWS S3, CloudFront |
+> Each project was designed, built and shipped by me end to end: Next.js frontend, Node.js and MongoDB backend, cloud hosting and a CI/CD pipeline from GitHub.
 
-<details>
-<summary><b>🔥 What I enjoy building</b></summary>
+### 🌐 [OYI Media](https://www.oyimedia.com/)
+Website for an influencer marketing and creator management agency.
 
-- Scalable React and Angular applications
-- Data-driven dashboards
-- Real-time web applications
-- Authentication and role-based systems
-- Performance-focused frontends
+- **Frontend:** Next.js site with a creator roster (India and international), niche-based browsing, brand and creator service pages, a portfolio and a blog
+- **Backend:** Node.js APIs with MongoDB for creators, content and enquiries
+- **Integrations:** AWS S3 for creator image uploads and storage
+- **Deployment:** hosted on Hostinger with a GitHub-triggered CI/CD pipeline
 
-</details>
+**Stack:** `Next.js` `Node.js` `MongoDB` `AWS S3` `Hostinger` `CI/CD`
+
+### 🎟️ [DKG Pro](https://dkgpro.in/)
+Event booking platform for booking events across multiple categories.
+
+- **Frontend:** Next.js booking flow, from browsing events to checkout
+- **Backend:** Node.js APIs with MongoDB for events, bookings and users
+- **Integrations:** Razorpay for online payments
+- **Cloud:** AWS EC2 for hosting, S3 for file and image storage, CloudFront for fast asset delivery
+- **Deployment:** GitHub-triggered CI/CD pipeline to production
+
+**Stack:** `Next.js` `Node.js` `MongoDB` `Razorpay` `AWS EC2` `AWS S3` `CloudFront` `CI/CD`
+
+### ✈️ [LegsGo](https://www.legsgo.com/)
+Travel booking website for browsing and booking trips.
+
+- **Frontend:** Next.js site for browsing and booking trips
+- **Backend:** Node.js APIs with MongoDB for trips and bookings
+- **Deployment:** hosted on Hostinger with a GitHub-triggered CI/CD pipeline
+
+**Stack:** `Next.js` `Node.js` `MongoDB` `Hostinger` `CI/CD`
+
+---
+
+## 🔥 What I Enjoy
+
+- 🧩 **Owning a feature end to end.** I like taking an idea from the UI to the API, database and deployment, and seeing it work in production.
+- 🔌 **Understanding how things work under the hood.** I'm curious about how socket connections work, from the handshake to keeping a live connection stable.
+- 🤖 **Learning how AI works.** I enjoy figuring out how these tools and models behave, so I can use them well instead of just trusting the output.
+- 💳 **Building real product flows.** Booking, checkout and payments, where the details matter and a bug costs real money.
+- ⚡ **Making things feel fast.** Small performance wins, cleaner components and smoother interactions.
+- 📚 **Learning in public.** Frontend architecture, system design, web performance and DSA are what I'm working on now.
 
 ---
 
