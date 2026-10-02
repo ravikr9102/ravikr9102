@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+%7C+Angular+%7C+Next.js;Node.js+%7C+MongoDB+%7C+AWS;Building+and+shipping+end-to-end" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=React+%7C+Angular+%7C+Next.js;Node.js+%7C+MongoDB+%7C+AWS;Building+and+shipping+end-to-end" alt="Typing animation" />
 </p>
 
 <p align="center">
@@ -18,9 +18,11 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=About+Me" alt="About Me" />
+</h2>
 
-I'm a **Frontend Developer with 2+ years of experience** building production web applications with **React, Angular, Next.js and TypeScript**.
+I'm a **Frontend-Focused Full-Stack Developer with 2+ years of experience** building production web applications with **React, Angular, Next.js and TypeScript**.
 
 Beyond the frontend, I build and ship complete products: Next.js frontends, Node.js and MongoDB backends, deployed on AWS and Hostinger with CI/CD pipelines triggered from GitHub.
 
@@ -40,7 +42,8 @@ Redux Toolkit · RxJS · REST APIs · WebSockets
 <td width="50%" valign="top">
 
 **⚙️ Backend**  
-Node.js · Express.js · MongoDB · MySQL · JWT
+Node.js · Express.js · MongoDB · MySQL · JWT  
+_Also: Java (working knowledge)_
 
 **☁️ Cloud & Delivery**  
 AWS (EC2, S3, CloudFront) · Hostinger · CI/CD · Razorpay integration
@@ -51,7 +54,9 @@ AWS (EC2, S3, CloudFront) · Hostinger · CI/CD · Razorpay integration
 
 ---
 
-## 🛠️ Tech Stack
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Tech+Stack" alt="Tech Stack" />
+</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -76,6 +81,7 @@ AWS (EC2, S3, CloudFront) · Hostinger · CI/CD · Razorpay integration
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
   <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
 <p align="center">
@@ -83,7 +89,7 @@ AWS (EC2, S3, CloudFront) · Hostinger · CI/CD · Razorpay integration
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
   <img src="https://img.shields.io/badge/CloudFront-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
@@ -98,7 +104,9 @@ AWS (EC2, S3, CloudFront) · Hostinger · CI/CD · Razorpay integration
 
 ---
 
-## 📌 Featured Projects
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Featured+Projects" alt="Featured Projects" />
+</h2>
 
 > Each project was designed, built and shipped by me end to end: Next.js frontend, Node.js and MongoDB backend, cloud hosting and a CI/CD pipeline from GitHub.
 
@@ -134,18 +142,22 @@ Travel booking website for browsing and booking trips.
 
 ---
 
-## 🔥 What I Enjoy
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=What+I+Enjoy" alt="What I Enjoy" />
+</h2>
 
 - 🧩 **Owning a feature end to end.** I like taking an idea from the UI to the API, database and deployment, and seeing it work in production.
 - 🔌 **Understanding how things work under the hood.** I'm curious about how socket connections work, from the handshake to keeping a live connection stable.
 - 🤖 **Learning how AI works.** I enjoy figuring out how these tools and models behave, so I can use them well instead of just trusting the output.
 - 💳 **Building real product flows.** Booking, checkout and payments, where the details matter and a bug costs real money.
 - ⚡ **Making things feel fast.** Small performance wins, cleaner components and smoother interactions.
-- 📚 **Learning in public.** Frontend architecture, system design, web performance and DSA are what I'm working on now.
+- 📚 **Always learning.** Frontend architecture, system design, web performance and DSA are what I'm working on now.
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=GitHub+Stats" alt="GitHub Stats" />
+</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ravikr9102&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" height="170"/>
@@ -162,7 +174,9 @@ Travel booking website for browsing and booking trips.
 
 ---
 
-## 💬 Random Dev Quote
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Random+Dev+Quote" alt="Random Dev Quote" />
+</h2>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
@@ -170,7 +184,9 @@ Travel booking website for browsing and booking trips.
 
 ---
 
-## 🤝 Let's Connect
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=26&duration=1500&pause=1000&color=61DAFB&center=true&vCenter=true&repeat=false&width=500&height=45&lines=Let%27s+Connect" alt="Let's Connect" />
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ravi-kumar-b18605168/">
